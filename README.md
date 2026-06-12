@@ -13,23 +13,19 @@ Analyze smart device usage trends and determine how those insights can be applie
 ---
 
 ## Tools Used
-
 * Python
 * Pandas
 * Matplotlib
 * Jupyter Notebook
 
 ---
-
 ## Skills Demonstrated
-
 * Data Cleaning
 * Data Validation
 * Exploratory Data Analysis
 * Data Visualization
 
 ---
-
 ## Key Findings
 * Users spend approximately 16.5 hours per day sedentary.
 * Average daily step count is approximately 7,638 steps.
