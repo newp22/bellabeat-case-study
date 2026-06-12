@@ -12,14 +12,14 @@ Analyze smart device usage trends and determine how those insights can be applie
 * Python
 * Pandas
 * Matplotlib
-* Jupyter Notebook
+* Jupyter notebook
 
 ---
 ## Skills Demonstrated
-* Data Cleaning
-* Data Validation
-* Exploratory Data Analysis
-* Data Visualization
+* Data cleaning
+* Data validation
+* Exploratory data analysis
+* Data visualization
 
 ---
 ## Key Findings
@@ -37,10 +37,27 @@ Analyze smart device usage trends and determine how those insights can be applie
 
 ---
 ## Project Deliverables
-* Full Report (pdf)
-* Executive Presentation (pdf)
-* Data Cleaning Changelog (pdf)
-* Python Notebook
+* Full report (pdf)
+* Executive presentation (pdf)
+* Data cleaning changelog (pdf)
+* Python notebook
 
 ---
 ## Visualizations
+### Activity Tracking Users vs Sleep Tracking Users
+![Activity Tracking Users vs. Sleep Tracking Users](viz/actvity-tracking-users-vs-sleep-tracking-users.png)
+
+### Average Daily Activity Minutes by Intensity
+![Average Daily Activity Minutes by Intensity](viz/average-daily-activity-minutes-by-intensity.png)
+
+### Average Daily Steps by Day of Week
+![Average Daily Steps by Day of Week](viz/average-daily-steps-by-day-of-week.png)
+
+### Daily Steps vs Calories Burned
+![Daily Steps vs. Calories Burned](viz/daily-steps-vs-calories-burned.png)
+
+### Distribution of Daily Sedentary Minutes
+![Distribution of Daily Sedentary Minutes](viz/distribution-of-daily-sedentary-minutes.png)
+
+### Sleep Duration Categories
+![Sleep Duration Categories](viz/sleep-duration-categories.png)
