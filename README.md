@@ -16,8 +16,7 @@ Analyze smart device usage trends and determine how those insights can be applie
 
 ---
 ## Skills Demonstrated
-* Data cleaning
-* Data validation
+* Data cleaning & validation
 * Exploratory data analysis
 * Data visualization
 
